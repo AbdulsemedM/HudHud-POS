@@ -1,0 +1,2 @@
+D:/TWF/twf_pos/android/app/.cxx/RelWithDebInfo/w3g486n7/x86_64/CMakeFiles/edit_cache.dir
+D:/TWF/twf_pos/android/app/.cxx/RelWithDebInfo/w3g486n7/x86_64/CMakeFiles/rebuild_cache.dir
